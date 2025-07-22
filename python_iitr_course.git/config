@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@github.com:AmitKushwaha5046/python_iitr_course.git
+	fetch = +refs/*:refs/*
+	mirror = true
